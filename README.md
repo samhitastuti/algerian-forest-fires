@@ -160,8 +160,3 @@ jupyter nbconvert --to notebook --execute --inplace algerian_forest_fires_PBL1.i
 - **Visualization**: `matplotlib`, `seaborn`
 - **Environment**: `jupyter`, `ipykernel`
 
----
-
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE).
